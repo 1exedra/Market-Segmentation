@@ -21,9 +21,13 @@ Purchase Frequency (x-axis), Total Spend (y-axis), and Average Purchase Value (z
 Cluster 0 (Purple):
 
 Characteristics:
+
 Low purchase frequency
+
 Low total spend
+
 Low average purchase value
+
 Insight: This cluster likely represents customers who are infrequent buyers and have low spending habits. They might not be very engaged or high-value customers.
 
 
