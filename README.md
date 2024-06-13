@@ -18,9 +18,10 @@ The 3D scatter plot represents the customer segments identified by the K-Means c
 
 Purchase Frequency (x-axis), Total Spend (y-axis), and Average Purchase Value (z-axis). Each color represents a different cluster.
 
-Cluster 0 (Purple):
+1. Cluster 0 (Purple):
 
 Characteristics:
+
 
 Low purchase frequency
 
@@ -29,5 +30,18 @@ Low total spend
 Low average purchase value
 
 Insight: This cluster likely represents customers who are infrequent buyers and have low spending habits. They might not be very engaged or high-value customers.
+
+2. Cluster 1 (Blue):
+
+Characteristics:
+
+
+Moderate purchase frequency
+
+Moderate total spend
+
+Moderate average purchase value
+
+Insight: These customers have a higher engagement level compared to Cluster 0. They make purchases more regularly and spend a moderate amount. They are a more valuable segment than Cluster 0 but not the highest spenders.
 
 
