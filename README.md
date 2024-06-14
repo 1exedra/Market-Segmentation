@@ -44,4 +44,16 @@ Moderate average purchase value
 
 Insight: These customers have a higher engagement level compared to Cluster 0. They make purchases more regularly and spend a moderate amount. They are a more valuable segment than Cluster 0 but not the highest spenders.
 
+3. Cluster 2 (Green):
+
+Characteristics:
+
+
+High purchase frequency
+
+High total spend
+
+High average purchase value
+
+Insight: This cluster represents high-value customers who purchase frequently and spend a lot. They are the most engaged and valuable segment and should be targeted with premium offers and personalized services.
 
