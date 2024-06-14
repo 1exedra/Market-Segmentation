@@ -57,3 +57,17 @@ High average purchase value
 
 Insight: This cluster represents high-value customers who purchase frequently and spend a lot. They are the most engaged and valuable segment and should be targeted with premium offers and personalized services.
 
+Cluster 3 (Yellow):
+
+Characteristics:
+
+High total spend
+
+
+High average purchase value
+
+
+Low to moderate purchase frequency
+
+
+Insight: These customers spend a lot on fewer purchases. They might be buying high-value items infrequently. They are an important segment for high-ticket items and might respond well to exclusive offers and high-end products.
